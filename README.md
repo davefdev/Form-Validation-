@@ -1,2 +1,2 @@
-# Form-Validation-
+# Form-Validation-JS
 example of a form validation
